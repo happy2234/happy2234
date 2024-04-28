@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 -->
 [badges1](https://images.app.goo.gl/UwD4UT5jcT7tYPt37)
 ![](https://komarev.com/ghpvc/?username=happy2234)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
