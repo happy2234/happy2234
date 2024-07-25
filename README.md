@@ -16,10 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ### Credly Badge
 [![Credly Badge](https://images.credly.com/size/110x110/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png)](https://www.credly.com/badges/32181074-9872-4944-8eea-0dedf297b905/public_url)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
+[![Credly Badge](https://images.credly.com/size/680x680/images/e029b6fc-732d-42b7-8776-ea4fb2a2b975/your_badge_image.png)](https://www.credly.com/badges/e029b6fc-732d-42b7-8776-ea4fb2a2b975/public_url)
 ---
 [![](https://visitcount.itsvg.in/api?id=happy2234&icon=0&color=0)](https://visitcount.itsvg.in)
 
