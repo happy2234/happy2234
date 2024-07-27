@@ -19,10 +19,10 @@
 [![Credly Badge](https://images.credly.com/size/110x110/images/33ed2910-9750-4613-aa2a-590e845c6edb/image.png)](https://www.credly.com/badges/e029b6fc-732d-42b7-8776-ea4fb2a2b975/public_url)
 [![Credly Badge](https://images.credly.com/size/110x110/images/030dff43-c0f1-4328-83d3-31e3124ca068/image.png)](https://www.credly.com/badges/1b1759cd-e838-474f-90e8-8252d3e17620/public_url)
 [![Credly Badge](https://images.credly.com/size/110x110/images/2d1797d5-1de7-4778-8975-9e5c6ec73a1a/image.png)](https://www.credly.com/badges/338267ac-36db-4781-9c15-41e6e283bbc0/public_url)
+<img src="http://i.imgur.com/dDWSYh6.jpg" alt="Profile Image" width="800"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=happy2234&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="http://i.imgur.com/dDWSYh6.jpg" alt="Profile Image" width="800"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
