@@ -1,4 +1,6 @@
-<div style="background-image: url('https://wallpapercave.com/4k-galaxy-wallpapers'); background-size: cover; padding: 20px;">
+<div style="position: relative; background-image: url(https://wallpapercave.com/4k-galaxy-wallpapers); background-size: cover; padding: 20px;">
+
+<div style="background-color: rgba(0, 0, 0, 0.5); padding: 20px; border-radius: 10px;">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gaurav-kumar-5bb707256) 
