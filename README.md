@@ -1,3 +1,4 @@
+<div style="background-image: url('https://wallpapercave.com/4k-galaxy-wallpapers'); background-size: cover; padding: 20px;">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gaurav-kumar-5bb707256) 
@@ -23,5 +24,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=happy2234&icon=0&color=0)](https://visitcount.itsvg.in)
 
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
