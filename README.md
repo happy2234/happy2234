@@ -1,4 +1,4 @@
-<div style="background-color: #282c34; padding: 20px; border-radius: 10px; color: white;">
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gaurav-kumar-5bb707256) 
