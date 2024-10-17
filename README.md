@@ -6,7 +6,7 @@
 # 👨‍💻 Gaurav Kumar - AI Developer & Linux Enthusiast
 
 ### "Empowering technology through creativity and innovation."
-<img src="https://media.giphy.com/media/3o7btTjZozT9YuqFEY/giphy.gif" width="300" alt="AI Developer GIF"/>
+<img src="https://giphy.com/clips/future-midjourney-chat-gpt-SNHd3FpcOrPHoBHtLD" width="300" alt="AI Developer GIF"/>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -29,7 +29,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=happy2234&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🤖 AI Projects:
-<img src="https://media.giphy.com/media/8yFOuFrAqvP2E1BNuE/giphy.gif" width="100" alt="Robot GIF"/>
+<img src="https://giphy.com/gifs/artificial-intelligence-singularity-CVtNe84hhYF9u" width="100" alt="Robot GIF"/>
 - **Sign Language Recognition**: Developed a model using TensorFlow and Keras to recognize sign language gestures, enhancing communication for hearing-impaired individuals.
 - **Image Classification with CNNs**: Implemented convolutional neural networks (CNNs) for various image classification tasks, experimenting with data augmentation and transfer learning techniques.
 - **AI-Powered Chatbot**: Created a chatbot using Python and Natural Language Processing (NLP) techniques to assist users in real-time, leveraging deep learning models for improved accuracy.
