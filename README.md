@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1178f7de-515b-4f01-a191-47be522c2231)![image](https://github.com/user-attachments/assets/6c0f18a8-9e6a-4043-9d46-def674d191bf)## 🌐 Socials:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav-kumar-5bb707256)
 
 # 💻 Tech Stack:
@@ -31,7 +31,8 @@
 [![Credly Badge](https://images.credly.com/size/110x110/images/030dff43-c0f1-4328-83d3-31e3124ca068/image.png)](https://www.credly.com/badges/1b1759cd-e838-474f-90e8-8252d3e17620/public_url)
 [![Credly Badge](https://images.credly.com/size/110x110/images/2d1797d5-1de7-4778-8975-9e5c6ec73a1a/image.png)](https://www.credly.com/badges/338267ac-36db-4781-9c15-41e6e283bbc0/public_url)
 
-### ![Alan Turing](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLhHyv_TPF2YIgpUqXia8HBzonwCxX91M5OoU25yhZbxgMYTVfbc2hzkcKPi_1NKW_ZnI&usqp=CAU) ![Linus Torvalds](https://sinikoski.com/COMMISSIONED/OVERVIEW/89) ![Linux Tux](https://www.pngwing.com/en/free-png-vuhxj)
+### ![Alan Turing](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLhHyv_TPF2YIgpUqXia8HBzonwCxX91M5OoU25yhZbxgMYTVfbc2hzkcKPi_1NKW_ZnI&usqp=CAU) 
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=happy2234&icon=0&color=0)](https://visitcount.itsvg.in)
