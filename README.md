@@ -32,7 +32,11 @@
 [![Credly Badge](https://images.credly.com/size/110x110/images/2d1797d5-1de7-4778-8975-9e5c6ec73a1a/image.png)](https://www.credly.com/badges/338267ac-36db-4781-9c15-41e6e283bbc0/public_url)
 
 ### ![Alan Turing](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLhHyv_TPF2YIgpUqXia8HBzonwCxX91M5OoU25yhZbxgMYTVfbc2hzkcKPi_1NKW_ZnI&usqp=CAU) 
-
+## 🐍 Python Projects
+**PyReco**
+- **Description:** A face recognition project that uses Python to identify and verify faces in images or video streams.
+- **Technologies Used:** Python, OpenCV, dlib, face_recognition
+- **Repository Link:** [PyReco](https://github.com/happy2234/pyreco)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=happy2234&icon=0&color=0)](https://visitcount.itsvg.in)
